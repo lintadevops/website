@@ -1,2 +1,2 @@
-FROM ubuntu
+FROM nginx
 ADD . /usr/share/nginx/html
